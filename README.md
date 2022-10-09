@@ -1,2 +1,2 @@
 # html-css
- Estudando desenvolvimento web
+ Estudando desenvolvimento web com Gustavo Guanabra
