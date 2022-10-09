@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Fontes externas</title>
+
+    <style>
+        @font-face{
+            font-family: 'Olondon' ;
+            src:url(fontes/Olondon.otf) format('opentype'), url(fontes/OldLondonAlternate.ttf)
+            format('truetype');
+            font-weight: normal;
+            font-style: normal;
+
+            
+            /*Tipos de format()
+            -opentyoe (otf)
+            -truetype (ttf)
+            -embeded-opentype
+            -truetype-aat (Apple Advanced Typography)
+            -svg
+            */
+
+
+        }
+        body{
+            font-family: Arial, Helvetica, sans-serif;
+        }
+        h1{
+            font-family: 'Olondon', TImes, serif;
+            font-size: 3em;
+            font-weight: normal;
+        }
+
+        p{
+            font-family: 'Olondon', Times, Sans-Serif;
+            font-size: 2em;
+            font-weight:normal;
+        }
+
+
+
+    </style>
+</head>
+<body>
+
+    <h1>Olá mundo</h1>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Soluta similique at molestiae praesentium distinctio, mollitia ea nisi minima doloribus eveniet eum voluptatibus, modi alias incidunt possimus, repellat consequatur? Corrupti, adipisci!</p>
+    
+</body>
+</html>
