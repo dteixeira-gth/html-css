@@ -21,7 +21,7 @@ header h1{
     font-family: 'Passion one', sans-serif;
 }
 
-header h3{
+header h2{
    color: white;
    padding-bottom:6vh; 
    font-size: 1.3em;
@@ -35,14 +35,14 @@ header a{
 
 .normal{
     font-family:'Sriracha', sans-serif  ;
-    font-size: 3em;
+    font-size: 2.5em;
     padding: 10vh 0vh 10vh 3.978vh;
     
 }
 
 .img01 p{
     font-family:'Sriracha', sans-serif  ;
-    font-size: 3em;
+    font-size: 2.5em;
     color: white;
     display: inline-block;
     line-height: 2em;    
@@ -66,10 +66,10 @@ section.img01 p{
 
 .sec02 p{
     line-height: 2em;
-    font-size: 3em;
+    font-size: 2.5em;
     padding: 10vh 0vh 10vh 3.978vh;
-    font-family:'Sriracha', sans-serif  ;
-    font-size: 3em;
+    font-family:'Sriracha', sans-serif;
+    font-size: 2.5em;
 }
 
 #img02{
@@ -82,25 +82,24 @@ section.img01 p{
 
 .img02 p{
     font-family:'Sriracha', sans-serif  ;
-    font-size: 3em;
+    font-size: 2.5em;
     color: white;
     display: inline-block;
     line-height: 2em;  
 }
+
 section.img02 p{
     display: inline-block;
     background-color:  rgba(0, 0, 0, 0.514);
     padding: 5px;
     margin-left: 30px;
-    margin-top: 30px;
-    
-    
+    margin-top: 30px; 
 }
 
 .sec04{
     line-height: 2em;
     font-family:'Sriracha', sans-serif;
-    font-size: 3em;
+    font-size: 2.5em;
     padding: 10vh 0vh 10vh 3.978vh;
 }
 
